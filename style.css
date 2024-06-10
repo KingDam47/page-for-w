@@ -22,7 +22,7 @@
     height: 100%;
     opacity: 0;
     filter: brightness(70%);
-    animation: cambiarImagen 10s infinite;
+    animation: cambiarImagen 20s infinite;
 }
 
 .imagen:nth-child(1) {
